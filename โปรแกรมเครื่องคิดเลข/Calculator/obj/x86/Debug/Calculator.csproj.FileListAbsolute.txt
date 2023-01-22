@@ -1,0 +1,9 @@
+C:\Users\thont\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\thont\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\thont\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\thont\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\thont\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\thont\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\thont\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\thont\OneDrive\เดสก์ท็อป\DEV\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\thont\OneDrive\เดสก์ท็อป\DEV\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
