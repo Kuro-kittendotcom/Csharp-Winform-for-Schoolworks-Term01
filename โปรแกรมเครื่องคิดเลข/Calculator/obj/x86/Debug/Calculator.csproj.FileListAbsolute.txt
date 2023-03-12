@@ -7,3 +7,11 @@ C:\Users\thont\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calcula
 C:\Users\thont\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
 C:\Users\thont\OneDrive\เดสก์ท็อป\DEV\Calculator\Calculator\obj\x86\Debug\Calculator.exe
 C:\Users\thont\OneDrive\เดสก์ท็อป\DEV\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\1. Dev Project\C#\Csharp-Winform-for-Schoolworks-Term01\โปรแกรมเครื่องคิดเลข\Calculator\obj\x86\Debug\Calculator.exe
+D:\1. Dev Project\C#\Csharp-Winform-for-Schoolworks-Term01\โปรแกรมเครื่องคิดเลข\Calculator\obj\x86\Debug\Calculator.pdb
+D:\1. Dev Project\C#\Csharp-Winform-for-Schoolworks-Term01\โปรแกรมเครื่องคิดเลข\Calculator\bin\Debug\Calculator.exe
+D:\1. Dev Project\C#\Csharp-Winform-for-Schoolworks-Term01\โปรแกรมเครื่องคิดเลข\Calculator\bin\Debug\Calculator.pdb
+D:\1. Dev Project\C#\Csharp-Winform-for-Schoolworks-Term01\โปรแกรมเครื่องคิดเลข\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\1. Dev Project\C#\Csharp-Winform-for-Schoolworks-Term01\โปรแกรมเครื่องคิดเลข\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\1. Dev Project\C#\Csharp-Winform-for-Schoolworks-Term01\โปรแกรมเครื่องคิดเลข\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\1. Dev Project\C#\Csharp-Winform-for-Schoolworks-Term01\โปรแกรมเครื่องคิดเลข\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache

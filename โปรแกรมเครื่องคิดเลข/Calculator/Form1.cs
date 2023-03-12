@@ -16,6 +16,26 @@ namespace Calculator
             InitializeComponent();
         }
 
+        public double addNum(double num1, double num2)
+        {
+            return num1 + num2;
+        }
+
+        public double subNum(double num1, double num2)
+        {
+            return num1 - num2;
+        }
+
+        public double multiNum(double num1, double num2)
+        {
+            return num1 * num2;
+        }
+
+        public double divNum(double num1, double num2)
+        {
+            return num1 / num2;
+        }
+
         private void button6_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -38,13 +58,10 @@ namespace Calculator
         {
             try
             {
-                double num1 = 0, num2 = 0, result = 0;
-                num1 = double.Parse(textBox1.Text);
-                num2 = double.Parse(textBox2.Text);
-                result = num1 + num2;
-                textBox3.Text = result.ToString();
+                double result = addNum(double.Parse(textBox1.Text), double.Parse(textBox2.Text));
+                textBox3.Text = result.ToString("0.######");
             }
-            catch (Exception) 
+            catch (Exception)
             {
                 MessageBox.Show("Pls check your input again", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 clear();
@@ -56,11 +73,8 @@ namespace Calculator
         {
             try
             {
-                double num1 = 0, num2 = 0, result = 0;
-                num1 = double.Parse(textBox1.Text);
-                num2 = double.Parse(textBox2.Text);
-                result = num1 - num2;
-                textBox3.Text = result.ToString();
+                double result = subNum(double.Parse(textBox1.Text), double.Parse(textBox2.Text));
+                textBox3.Text = result.ToString("0.######");
             }
             catch (Exception)
             {
@@ -73,11 +87,8 @@ namespace Calculator
         {
             try
             {
-                double num1 = 0, num2 = 0, result = 0;
-                num1 = double.Parse(textBox1.Text);
-                num2 = double.Parse(textBox2.Text);
-                result = num1 * num2;
-                textBox3.Text = result.ToString();
+                double result = multiNum(double.Parse(textBox1.Text), double.Parse(textBox2.Text));
+                textBox3.Text = result.ToString("0.######");
             }
             catch (Exception)
             {
@@ -90,11 +101,8 @@ namespace Calculator
         {
             try
             {
-                double num1 = 0, num2 = 0, result = 0;
-                num1 = double.Parse(textBox1.Text);
-                num2 = double.Parse(textBox2.Text);
-                result = num1 / num2;
-                textBox3.Text = result.ToString();
+                double result = divNum(double.Parse(textBox1.Text), double.Parse(textBox2.Text));
+                textBox3.Text = result.ToString("0.######");
             }
             catch (Exception)
             {
